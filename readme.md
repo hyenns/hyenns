@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=90cbc1&height=120&text=Hello,%20I'm%20Hyein%20Lee&animation=&fontColor=3f3b3b&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요, 이혜인입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 머무르기를 싫어하는 스스로 성장해가는 데이터분석가입니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다, 이혜인입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 머무르기를 싫어하며 스스로 성장해가는 데이터분석가입니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
