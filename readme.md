@@ -22,7 +22,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:gwm0120@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwm0120@gmail.com"> </a>
-         <a href=https://aluminum-magpie-a29.notion.site/About-ME-1376dce68f8180b3a0f1e6f140b4b577?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://aluminum-magpie-a29.notion.site/About-ME-1376dce68f8180b3a0f1e6f140b4b577?pvs=4"> </a>
+         <a href=https://aluminum-magpie-a29.notion.site/About-ME-1376dce68f8180b3a0f1e6f140b4b577?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=ㄴㅇㅇㅇ&logoColor=white&link=https://aluminum-magpie-a29.notion.site/About-ME-1376dce68f8180b3a0f1e6f140b4b577?pvs=4"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
