@@ -31,14 +31,10 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏼‍💻Project </h2><br> 
         
-        <a href="https://github.com/hyenns/Python_project">
-          <img src="https://github.com/user-attachments/assets/6b3a870e-5ef8-4370-8942-1a007625c364" alt="스낵 시장의 트렌드와 소비자 요구 메인" width="600">
-        </a>
-    
-</div>
+[![스낵 시장의 트렌드와 소비자 요구 메인](https://github.com/user-attachments/assets/6b3a870e-5ef8-4370-8942-1a007625c364)](https://github.com/hyenns/Python_project)
+    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hyenns&bg_color=180,f0f0f0,00000000&title_color=000000&text_color=000000"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyenns&layout=compact&bg_color=180,f0f0f0,00000000&title_color=000000&text_color=000000"/> 
-    </div> 
     </div>
 
     
