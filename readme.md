@@ -37,9 +37,9 @@
     <a href="https://github.com/hyenns/SQL_project">
         <img src="https://github.com/user-attachments/assets/f864fdeb-c148-46f7-8423-8e4e99576804" alt="해외여행 분석 및 예측 메인" width="400">
     <a href="https://github.com/hyenns/Sejongcity_project">
-        <img src="https://github.com/user-attachments/assets/fe90d95d-1428-4347-a3b1-5da7f6bf003e" alt="세종시 발표 자료 메인" width="400">
+        <img src="https://github.com/user-attachments/assets/fe90d95d-1428-4347-a3b1-5da7f6bf003e" alt="세종시 발표 자료 메인" width="400"><br>
     </a>
-    <br><p align="center"> 👆🏻위 이미지를 클릭하면 해당 프로젝트 페이지로 이동합니다.👆🏻 </p><br>
+    <br><p align="center"> 👆🏻위 이미지를 클릭하면 해당 프로젝트 페이지로 이동합니다.👆🏻 </p>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hyenns&bg_color=180,f0f0f0,00000000&title_color=000000&text_color=000000"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyenns&layout=compact&bg_color=180,f0f0f0,00000000&title_color=000000&text_color=000000"/> 
