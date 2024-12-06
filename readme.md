@@ -37,7 +37,8 @@
     <a href="https://github.com/hyenns/SQL_project">
         <img src="https://github.com/user-attachments/assets/f864fdeb-c148-46f7-8423-8e4e99576804" alt="해외여행 분석 및 예측 메인" width="400">
     <a href="https://github.com/hyenns/Sejongcity_project">
-        <img src="https://github.com/user-attachments/assets/fe90d95d-1428-4347-a3b1-5da7f6bf003e" alt="세종시 발표 자료 메인" width="400">
+        <img src="https://github.com/user-attachments/assets/fe90d95d-1428-4347-a3b1-5da7f6bf003e" alt="세종시 발표 자료 메인" width="400"><br>
+    <div align="center"> 👆🏻위 이미지를 클릭하면 해당 프로젝트 페이지로 이동합니다.👆🏻 </div><br>
     </a>
     </div>
     <div style="text-align: left;"> 
