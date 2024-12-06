@@ -34,7 +34,6 @@
         <img src="https://github.com/user-attachments/assets/6b3a870e-5ef8-4370-8942-1a007625c364" alt="스낵 시장의 트렌드와 소비자 요구 메인" width="500">
     <a href="https://github.com/hyenns/Deeplearning_project">
         <img src="https://github.com/user-attachments/assets/424c6f63-2869-4c88-93ce-05777310296c" alt="무인점포 절도 탐지 프로그램 메인" width="500">
-
     </a>
     </div>
     <div style="text-align: left;"> 
