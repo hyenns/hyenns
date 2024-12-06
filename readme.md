@@ -22,15 +22,15 @@
           <br/></div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2><br> 
     <div style="text-align: left;"> <a href=mailto:gwm0120@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwm0120@gmail.com"> </a>
          <a href=https://aluminum-magpie-a29.notion.site/About-ME-1376dce68f8180b3a0f1e6f140b4b577?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://aluminum-magpie-a29.notion.site/About-ME-1376dce68f8180b3a0f1e6f140b4b577?pvs=4"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏼‍💻Project </h2>
-    [<img width="1707" alt="스낵 시장의 트렌드와 소비자 요구 메인" src="https://github.com/user-attachments/assets/b33d4c47-ec27-44d4-92a5-7d8726a9ba95">](https://github.com/hyenns/Python_project)
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏼‍💻Project </h2><br> 
+    [![스낵 시장의 트렌드와 소비자 요구 메인](https://github.com/user-attachments/assets/b33d4c47-ec27-44d4-92a5-7d8726a9ba95)](https://github.com/hyenns/Python_project)
 
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hyenns&bg_color=180,f0f0f0,00000000&title_color=000000&text_color=000000"
