@@ -23,6 +23,7 @@
           <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+          <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Hadoop&logoColor=white">
           <br/></div>
     </div>
     <div style="text-align: left;">
