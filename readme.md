@@ -3,9 +3,9 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ About Me! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> - 안녕하세요. 머무르기를 싫어하며 스스로 성장해가는 데이터 분석가를 꿈꾸는 이혜인입니다.
-<br>주로 **‘SQL 및 Python’** 을 활용한 데이터 분석 프로젝트를 진행하며, **문제를 발견하고 데이터를 기반으로 원인을 분석하는 과정과 그에 따른 인사이트를 도출하는 것에 흥미**를 느껴 데이터 분석을 시작하게 되었습니다.
-<br>제가 가지고 있는 **의사소통 능력과 리더십**을 강점으로 삼아 머무르지 않고 끈질지게 탐구하며, 데이터를 통해 실질적인 가치를 창출하는 데이터 분석가로 성장하고 싶습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> - 안녕하세요. 머무르기를 싫어하며 스스로 성장해가는 ep이터 분석가를 꿈꾸는 이혜인입니다.
+        <br>주로 **‘SQL 및 Python’** 을 활용한 데이터 분석 프로젝트를 진행하며, **문제를 발견하고 데이터를 기반으로 원인을 분석하는 과정과 그에 따른 인사이트를 도출하는 것에 흥미**를 느껴 데이터 분석을 시작하게 되었습니다.
+        <br>제가 가지고 있는 **의사소통 능력과 리더십**을 강점으로 삼아 머무르지 않고 끈질지게 탐구하며, 데이터를 통해 실질적인 가치를 창출하는 데이터 분석가로 성장하고 싶습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
