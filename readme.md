@@ -39,7 +39,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏼‍💻Project </h2><br>
     <a href="https://github.com/hyenns/SQL_project">
-        <img src="https://github.com/user-attachments/assets/f864fdeb-c148-46f7-8423-8e4e99576804" alt="해외여행 분석 및 예측 메인" width="400">
+        <img src="https://github.com/user-attachments/assets/1c3a2cf7-2127-4465-bacd-6801464c5187" alt="SQL을 활용한 해외여행 분석 메인" width="400">
     <a href="https://github.com/hyenns/Python_project">
         <img src="https://github.com/user-attachments/assets/6b3a870e-5ef8-4370-8942-1a007625c364" alt="스낵 시장의 트렌드와 소비자 요구 메인" width="400"><br>
     <a href="https://github.com/hyenns/Sejongcity_project">
