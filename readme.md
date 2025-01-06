@@ -1,5 +1,4 @@
-![oracle_logo_icon_145005 (1)](https://github.com/user-attachments/assets/b03a7a09-4553-4abd-8d3e-b173d49241bc)<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=90cbc1&height=120&text=Hello👋🏻,%20I'm%20Hyein%20Lee&animation=&fontColor=3f3b3b&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=90cbc1&height=120&text=Hello👋🏻,%20I'm%20Hyein%20Lee&animation=&fontColor=3f3b3b&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ About Me! </h2>  
@@ -9,7 +8,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> 
+    <div style="margin:;" text-align: left;" "text-align: left;">
           <img src="https://img.shields.io/badge/OracleF80000?style=flat-square&logo=Oracle&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
@@ -33,7 +32,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️ Contact me </h2><br> 
     <div style="text-align: left;"> <a href=mailto:gwm0120@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwm0120@gmail.com"> </a>
-          </div><br> 
+          </div> <br> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
