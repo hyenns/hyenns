@@ -10,11 +10,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">![Uploading <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <path d="M21.88 5.88h-11.755c-5.589 0-10.12 4.527-10.125 10.115-0.005 5.589 4.527 10.12 10.115 10.125h11.765c5.589 0 10.12-4.532 10.12-10.12s-4.531-10.12-10.12-10.12zM21.625 22.552h-11.245c-8.563-0.172-8.563-12.932 0-13.104h11.245c8.735 0 8.735 13.104 0 13.104z"/>
-</svg>
-oracle_logo_icon_145005 (1).svg…]()
-
+          <img src="https://img.shields.io/badge/SQL-F80000?style=flat-square&logo=SQL&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
