@@ -31,13 +31,13 @@
           <br/></div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2><br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️ Contact me </h2><br> 
     <div style="text-align: left;"> <a href=mailto:gwm0120@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwm0120@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏼‍💻Project </h2><br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏼‍💻 Project </h2><br>
     <a href="https://github.com/hyenns/SQL_project">
         <img src="https://github.com/user-attachments/assets/1c3a2cf7-2127-4465-bacd-6801464c5187" alt="SQL을 활용한 해외여행 분석 메인" width="400">
     <a href="https://github.com/hyenns/Python_project">
