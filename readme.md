@@ -48,8 +48,5 @@
     </a>
     <br><p align="center"> 👆🏻위 이미지를 클릭하면 해당 프로젝트 페이지로 이동합니다.👆🏻 </p>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hyenns&bg_color=180,f0f0f0,00000000&title_color=000000&text_color=000000"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyenns&layout=compact&bg_color=180,f0f0f0,00000000&title_color=000000&text_color=000000"/> 
-    </div>
 
     
